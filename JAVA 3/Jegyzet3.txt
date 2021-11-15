@@ -1,0 +1,4 @@
+Jegyzet:
+-Példányosítás.
+-Java-ban beépített típusokat explicit módon el kell készíteni a new-val.
+-Tagonként/függvényenként/változónként kell megadni a láthatóságot.

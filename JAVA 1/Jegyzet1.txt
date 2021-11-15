@@ -1,0 +1,3 @@
+Jegyzet:
+- javac a fordítóprogram, nem bináris állományt állítunk elő vele, hanem byte kódot, amit a java környezetnek adunk át futtatásra.
+-Java main-t mindig osztályba kell írni.

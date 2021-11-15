@@ -1,0 +1,11 @@
+Jegyzet:
+-Enum (felsorolt típus): hasonló C++-hoz. Speciális osztály. Java-ban kiírja a konkrét nevét a field-nek (változó).
+-Autoboxing: Vannak elemi típusok (float, int, boolean...), ezeket nem minden esetben tudjuk használni (pl.: generikusoknál). Sok esetben szükség van egy wrapper osztályra (type wrapper). Minden típusnak meg van a saját ilyen osztálya (int --> Integer).
+Minden numerikus típusnak van egy ősosztálya a Number.
+-Annotations (annotációk): Java olyan feature-re, ami metaadatokat fűz a kódhoz (extra információ). Program futására nincs hatásuk közvetlenül, hanem fordításkor/kódelemzéskor használjuk.
+Reflex és annotation package Java-nak.
+-Retention Policy:
+	>RUNTIME: futási időben tudjuk elérni az annotációt.
+	>SOURCE: csak forráskód szinten jelenik meg.
+	>CLASS: bináris szinten is megjelenik (ez a default).
+-Reflection: amikor elkérjük az annotációkat és használjuk valamire.

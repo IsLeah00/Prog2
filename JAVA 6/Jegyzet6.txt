@@ -1,0 +1,2 @@
+Jegyzet:
+-C++-hoz hasonló (kivétel dobálás/elkapás) és nem kezelt kivétel működése.

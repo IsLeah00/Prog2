@@ -1,0 +1,4 @@
+Jegyzet:
+-Main class neve ugyanaz legyen, mint a fájlnév.
+-Range for loop C++ | For range loop Java
+-Java-ban a tömbök objektumokká képződnek le, így lehet tagváltozójuk. (pl.: nums.length)

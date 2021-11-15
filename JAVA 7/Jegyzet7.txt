@@ -1,0 +1,9 @@
+Jegyzet:
+-Vannak processzek(a program, ami fut) és szálak (thread-ek: processzen belül, 1-1 futtatható állomány).
+-Cél: ha van 1 feladatunk azt kellene párhuzamosítani. 
+-Többszálas futtatás fontos. Multithread lényege: több szál és processz futtatása párhuzamosan. (több program futtatása egyszerre).
+-2 eszköz párhuzamosításhoz:
+	> Osztályunk implementálja a Runnable interface-t.
+	> Kibővítjük a thread osztályt.
+-Van olyan adatszerkezetünk/adatunk, amit 1 szál szeretne írni 1 másik szál pedig szeretne olvasni. Ha párhuzamosan akarnak futni, akkor szinkronizálni kell.
+-Deadlock lényege: 2 szál olyan feltételre vár, amit saját maguk vagy csak egymás okán tudnak feloldani.

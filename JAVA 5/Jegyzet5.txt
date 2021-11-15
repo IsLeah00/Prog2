@@ -1,0 +1,5 @@
+Jegyzet:
+-Eddig létrehozott osztályainkat kiraktuk egy globális névtérbe (global scope). Így ütközhet más felhasználókkal a név. Erre megoldás C++-ban a névterek (nevet adunk annak a scope-nak, amiben ezeket a típusokat deklaráltuk).
+-Java-ban hasonló, de itt névterek helyett package-k vannak
+-C++ scope operator: ':' | Java scope operator: '.'
+-A main class-t a package névvel együtt kell futtatni, mappa szerkezete fontos!
