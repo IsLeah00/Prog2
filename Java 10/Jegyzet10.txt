@@ -1,0 +1,4 @@
+Jegyzet:
+-2 része van: 
+	> maga a lambda expression (blokk)
+	> functional interface

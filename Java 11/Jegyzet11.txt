@@ -1,0 +1,3 @@
+Jegyzet:
+-A modulok package-k és ilyen erőforrások gyűjteménye.
+-Célja: szétbonthatjuk vele a library-nket további részekre, így nem lesz hatalmas a runtime környezetünk (nagyobb projectek esetén hasznos).

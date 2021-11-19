@@ -1,0 +1,8 @@
+Jegyzet:
+-Generikus programozás lényege: típusainkat tudjuk típusokkal paraméterezni. Java-ban is vannak olyan adatszerkezetek, algoritmusok, amiknek nem akarjuk megszabni hogyan működjenek, hiszen ezeknek általánosan (generikusan) kell működniük.
+Tehát egy verem, lista, sor, keresés, rendezés -nek a típustól valamilyen szinten függetlenül kell működnie. A típus nem határozhatja meg azt, hogy mi a végrehajtható művelet.
+-Annak az alapja, hogy az algoritmusok el tudjanak különülni és legyen egy iterátor típusunk, ami ezeket összeköti, az alapja a genrikus programozás.
+-Típus paraméter csak referencia típus lehet, elemi típus nem.
+-Java-ban megfelelő típus 'cast'-olások lesznek a háttérben.
+-Minden típus ősosztálya az Object class.
+-Generikus osztály nem öröklődhet Throwable-ből.

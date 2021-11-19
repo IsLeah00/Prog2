@@ -1,0 +1,8 @@
+Jegyzet:
+-Class Object:
+	> Osztály hierarchia gyökere.
+	> Minden osztály számára superclass.
+	> Minden object, tömbök is implementálják a metódusait.
+-Infó: docs.oracle.com (Java SE 16 docs)
+-equals : visszaadja, hogy 1 objektum egyenlő-e a másikkal.
+-toString : String-et hív, override után kiírásra használjuk.
